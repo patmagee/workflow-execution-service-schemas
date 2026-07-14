@@ -226,7 +226,7 @@
         "parameters": [
           {
             "name": "state",
-            "description": "OPTIONAL. Filter rubs by state. If unspecified,\nno run state filtering is done.",
+            "description": "OPTIONAL. Filter runs by state. If unspecified,\nno run state filtering is done.",
             "in": "query",
             "required": false,
             "schema": {
